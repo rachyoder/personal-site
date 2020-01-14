@@ -1,4 +1,6 @@
 import React from 'react';
+import "bootstrap/dist/js/bootstrap";
+import "bootstrap/dist/css/bootstrap.css";
 import JumbotronLanding from "./components/JumbotronLanding";
 import './App.css';
 

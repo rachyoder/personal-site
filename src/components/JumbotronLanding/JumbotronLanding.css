@@ -1,3 +1,27 @@
-.main {
-    background-color: rgba(255,255,255 0.2);
+.jumbotron.main {
+    background-color: rgba(255, 255, 255, 0.0);
+}
+
+h1 {
+    color: #cccccc;
+    font-family: 'Comfortaa', cursive;
+}
+
+hr {
+    border-top: 2px solid rgba(255, 255, 255, .5);
+}
+
+ul.nav {
+    list-style-type: none;
+    font-size: x-large;
+    font-family: 'Comfortaa', cursive;
+}
+
+ul.nav li {
+    margin: 0 5vw;
+    color: #cccccc;
+}
+
+ul.nav li:hover {
+    color: #000000;
 }
